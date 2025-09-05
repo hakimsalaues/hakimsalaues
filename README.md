@@ -27,33 +27,38 @@ I am passionate about developing **interactive web applications, SPAs, and e-com
 
 ## 📂 Featured Projects
 
-### **E-commerce Backend & Frontend**
-- **Backend:** Node.js, Express, MongoDB, JWT, REST APIs, Docker
-- **Frontend:** React SPA, Context API, Firestore
-- [View Repository](https://github.com/hakimsalaues/react-ecommerce-spa)
-
 ### **Interactive JS Simulators**
 - Dynamic simulation of purchases and quotes
 - HTML5 + CSS3/SASS + JS + JSON
 - DOM manipulation, events, and dynamic rendering
-- [View Repository](https://github.com/hakimsalaues/interactive-js-simulator)
-
-### **Final Web Projects**
-- SPA, SASS, SEO, responsive design
-- Deployed on Netlify with professional documentation
-- [View Repository](https://github.com/hakimsalaues/web-final-project)
+- [View Repository](https://github.com/hakimsalaues/interactive-js-simulator.git)
 
 ### **Backend with Docker & Tests**
 - Professional backend with Repository pattern, DTOs, and role-based middleware
 - Dockerized and fully tested
-- [View Repository](https://github.com/hakimsalaues/backend-docker)
+- [View Repository](https://github.com/hakimsalaues/dockerized-ecommerce-backend.git)
 
-### **Game Development (Unreal Engine)**
-- Interactive game prototypes
-- 3D assets and game logic implementation
-- [View Repository](https://github.com/hakimsalaues/unreal-projects)
+### **E-commerce React App**
+- Full-featured frontend e-commerce application built with **React**, Context API, and **React Router**.
+- Implements dynamic product listing, ItemDetail, Cart management, and checkout workflow.
+- [View Repository](https://github.com/hakimsalaues/ecommerce-react-app)
 
----
+### **E-commerce Complete (Frontend)**
+- Complete frontend project with **React SPA**, SASS styling, and responsive design.
+- Integrated dynamic product catalog, filtering, and interactive UI components.
+- [View Repository](https://github.com/hakimsalaues/Ecomerce-completo)
+
+### **E-commerce Server Architecture**
+- Professional backend architecture with **Repository pattern**, DTOs, and role-based authorization.
+- Implements secure endpoints, business logic, and user management.
+- [View Repository](https://github.com/hakimsalaues/ecommerce-server-architecture)
+
+### **E-commerce MongoDB Advanced**
+- Advanced backend project with **MongoDB** integration, population of related data, and optimized queries.
+- Features enhanced product and cart management with pagination, filtering, and sorting.
+- [View Repository](https://github.com/hakimsalaues/ecommerce-mongodb-advanced)
+
+
 
 ## 📈 GitHub Stats
 
